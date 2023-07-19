@@ -1,4 +1,4 @@
-# Rename-Images
+# Description
 
 Rename Images is a Python script to efficiently rename all files in the current folder on macOS in ascending order. The script will prefix the files with "IMG_" followed by a three-digit number (e.g., IMG_001, IMG_002, IMG_003, ...).
 
